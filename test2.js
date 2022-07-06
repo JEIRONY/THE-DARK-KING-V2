@@ -1,7 +1,7 @@
 var nodemon = require('nodemon')
 
 nodemon({
-  script: 'index.js',
+script: 'index.js',
   ext: 'js'
 })
 
